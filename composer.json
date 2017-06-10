@@ -1,0 +1,14 @@
+{
+    "name": "shelleygh/demo",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "shelleytg",
+            "email": "xiuling2007@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
